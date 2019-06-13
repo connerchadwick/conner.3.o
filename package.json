@@ -1,0 +1,14 @@
+{
+  "name": "conner",
+  "version": "1.0.0",
+  "description": "conner.chadwick03's bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "."
+  },
+  "author": "conner.chadwick03",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
